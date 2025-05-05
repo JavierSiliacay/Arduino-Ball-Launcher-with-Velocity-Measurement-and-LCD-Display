@@ -90,4 +90,4 @@ MIT License – free to use, modify, and distribute.
 
 ## 🧠 Author
 
-Made by [Javier Siliacay] – for educational purposes and fun physics demos!
+Made by Javier Siliacay – for educational purposes and fun physics demos!
